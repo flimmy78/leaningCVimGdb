@@ -1,4 +1,4 @@
-        typedef int ElementType;
+typedef int ElementType;
 
 /* START: fig3_6.txt */
         #ifndef _List_H
